@@ -1,6 +1,6 @@
 {
   "name": "@lernaflow/init",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "init lerna project",
   "keywords": [
     "init",
