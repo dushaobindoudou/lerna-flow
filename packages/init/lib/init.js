@@ -7,4 +7,4 @@ function init() {
 }
 
 
-console.log('release alpha')
+console.log('release alpha 2')
