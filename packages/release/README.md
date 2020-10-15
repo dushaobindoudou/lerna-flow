@@ -35,6 +35,14 @@ lerna version && lerna publish from-git
 lerna publish
 ```
 
+使用tag发布版本
 
+```
+lerna publish --dist-tag alpha
+```
 
+alpha 版本升级到 canary 版本
 
+```
+lerna publish --dist-tag alpha
+```
