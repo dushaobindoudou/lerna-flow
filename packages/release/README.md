@@ -62,4 +62,17 @@ canay版本转换成正式版本
 lerna publish --conventional-commits --conventional-graduate --force-publish=@lernaflow/release
 ```
 
+## 开发流程
+1. 开发代码
+2. 测试通过好发布alpha版本（业务版本需要进行测试验证)
+3. 业务测试通过后发布canary版本（canary版本是未经过线上验证的版本，线上一段时间后没问题，则发布正式版本)
+4. 线上验证如果有问题修改继续发布 canary，如果没问题则发布正式版本
+5. 发布正式版本，如果正式版本有问题进行迭代
+
+
+## 版本号
+1. major 主版本不兼容（大功能改动、重大业务调整、影响比较大，需要重新测试）
+2. minor 兼容功能需求修改（不相关的功能需要回归，改动需要测试）
+3. patch bug修改（可以直接上线，只需要回归相关改动）
+
 
