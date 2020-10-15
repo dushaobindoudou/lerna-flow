@@ -1,6 +1,6 @@
 {
   "name": "@lernaflow/release",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "dushaobin <dushaobin@liepin.com>",
   "homepage": "https://github.com/dushaobindoudou/lerna-flow#readme",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/dushaobindoudou/lerna-flow/issues"
-  }
+  },
+  "gitHead": "74276a3becdc574f921bf64d9b1c68da3cd5d89e"
 }
