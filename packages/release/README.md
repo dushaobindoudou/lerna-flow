@@ -47,6 +47,11 @@ alpha 版本升级到 canary 版本
 lerna publish --dist-tag alpha
 ```
 
+发布canary版本, 修改制定版本和preid
+```
+lerna publish --canary minor --preid beta
+```
+
 转换成正式发布版本
 ```
 lerna publish --conventional-commits --conventional-graduate --force-publish=@lernaflow/release --canary --preid alpha
@@ -56,3 +61,5 @@ canay版本转换成正式版本
 ```
 lerna publish --conventional-commits --conventional-graduate --force-publish=@lernaflow/release
 ```
+
+
