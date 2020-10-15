@@ -52,3 +52,7 @@ lerna publish --dist-tag alpha
 lerna publish --conventional-commits --conventional-graduate --force-publish=@lernaflow/release --canary --preid alpha
 ```
 
+canay版本转换成正式版本
+```
+lerna publish --conventional-commits --conventional-graduate --force-publish=@lernaflow/release
+```
