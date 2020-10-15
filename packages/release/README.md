@@ -27,3 +27,14 @@ lerna version && lerna publish from-git
 ```
 
 
+默认的发布策略
+
+根据上一次的发布找出修改的版本，通过使用leran version
+
+```
+lerna publish
+```
+
+
+
+

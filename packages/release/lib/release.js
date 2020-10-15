@@ -6,5 +6,5 @@ function release() {
     // TODO
 }
 
-console.log('release alpha')
+console.log('release alpha 1')
 
