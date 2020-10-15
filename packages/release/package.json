@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/dushaobindoudou/lerna-flow/issues"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
   }
 }
