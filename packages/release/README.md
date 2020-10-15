@@ -49,7 +49,7 @@ lerna publish --dist-tag alpha
 
 发布canary版本, 修改制定版本和preid
 ```
-lerna publish --canary minor --preid beta
+lerna publish --canary premajor --preid beta
 ```
 
 转换成正式发布版本

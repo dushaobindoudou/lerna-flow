@@ -1,6 +1,6 @@
 {
   "name": "@lernaflow/release",
-  "version": "1.2.0-beta.0",
+  "version": "1.2.0-beta.0+21c97a9",
   "description": "> TODO: description",
   "author": "dushaobin <dushaobin@liepin.com>",
   "homepage": "https://github.com/dushaobindoudou/lerna-flow#readme",
@@ -29,5 +29,5 @@
   "dependencies": {
     "koa": "^2.13.0"
   },
-  "gitHead": "9bc0c462ab6b324043d00401688270f6a7e5624e"
+  "gitHead": "21c97a9be750f217bd9ed418439f46eafb30e6e6"
 }
