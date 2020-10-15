@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/dushaobindoudou/lerna-flow/issues"
   },
-  "gitHead": "a2c8d53e9f3a2b04686f576039087d4a6a197aa9"
+  "gitHead": "a2c8d53e9f3a2b04686f576039087d4a6a197aa9",
+  "dependencies": {
+    "webpack": "^5.1.0"
+  }
 }
